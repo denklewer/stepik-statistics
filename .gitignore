@@ -1,0 +1,90 @@
+# node and NPM
+npm-debug.log
+node_modules
+..bfg-report
+
+# swap files
+*~
+*.swp
+
+
+
+env.sh
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+.idea
+.ipynb_checkpoints
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+docs/_build/
+docs/tmp*
+
+# OS X garbage
+.DS_Store
+
+# Debian things
+debian/reproducible-experiment-platform
+debian/files
+*.substvars
+*.debhelper.log
+
+videos
+MDP.gv
+MDP.gv.pdf
+ckpt/
+logs/
+mdp_get_action_value.py
+my_model.h5
+notMNIST_small/
+output/
+qlearning.py
+tb/
+weights/
